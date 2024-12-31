@@ -1,0 +1,153 @@
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\appsettings.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Filmes.staticwebassets.endpoints.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Filmes.exe
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Filmes.deps.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Filmes.runtimeconfig.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Filmes.pdb
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\scopedcss\bundle\Filmes.styles.css
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.build.Filmes.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Filmes.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Filmes.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.Up2Date
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\refint\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.pdb
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\Filmes.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\obj\Debug\net8.0\ref\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\.NET\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\appsettings.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.staticwebassets.endpoints.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.exe
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.deps.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.runtimeconfig.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.pdb
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\scopedcss\bundle\Filmes.styles.css
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.build.Filmes.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Filmes.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Filmes.props
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.Up2Date
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\refint\Filmes.dll
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.pdb
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Área de Trabalho\CURSOS\Filmes\Filmes\obj\Debug\net8.0\ref\Filmes.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\appsettings.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.staticwebassets.endpoints.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.exe
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.deps.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.runtimeconfig.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Filmes.pdb
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.AssemblyReference.cache
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfo.cs
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\scopedcss\bundle\Filmes.styles.css
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.build.Filmes.props
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Filmes.props
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Filmes.props
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.Up2Date
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\refint\Filmes.dll
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.pdb
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\Filmes.genruntimeconfig.cache
+C:\Users\jorge\Downloads\CURSOS\Filmes\Filmes\obj\Debug\net8.0\ref\Filmes.dll
